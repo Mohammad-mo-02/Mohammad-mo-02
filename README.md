@@ -3,7 +3,7 @@
 I am a postgraduate cybersecurity specialist with hands-on experience in threat detection, ethical hacking, and information security governance. My expertise spans ISO 27001 implementation, SIEM log analysis (Microsoft Sentinel), network defence, and secure system design. I am passionate about continuous learning and applying advanced security techniques to real-world challenges.
 
 
-<!🚀 Skills & Tools
+🚀 Skills & Tools
 Security Frameworks: ISO 27001, NIST, PDCA
 SIEM & Analytics: Microsoft Sentinel, Azure Monitor, KQL, Machine Learning
 Pentesting & IDS: Nmap, Metasploit, Snort, Burp Suite, Wireshark
